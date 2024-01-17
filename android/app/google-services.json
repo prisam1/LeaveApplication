@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "948992025209",
+    "project_id": "retentiveapp",
+    "storage_bucket": "retentiveapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948992025209:android:02996b593980f75c96eaa8",
+        "android_client_info": {
+          "package_name": "com.retentive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948992025209-1o9f13nl590lnevfsk9uijpoa350bile.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.retentive",
+            "certificate_hash": "99f54fdec36f7b9c144457c406349d5df5319c1f"
+          }
+        },
+        {
+          "client_id": "948992025209-kakh7o438sisj9seqcmlehmg235t1nqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7bo2eMyCUW6I3udUPtoXv-UPxMheAUe0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948992025209-kakh7o438sisj9seqcmlehmg235t1nqi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
